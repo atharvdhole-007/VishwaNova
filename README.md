@@ -1,7 +1,7 @@
-# 💔 PharmaGuard — Because Some Families Don't Get a Second Chance
+# 💔 MediSecure — Because Some Families Don't Get a Second Chance
 
 > *"She took the pill the doctor prescribed. Three hours later, she was gone."*  
-> *— This is why we built PharmaGuard.*
+> *— This is why we built MediSecure.*
 
 ---
 
@@ -21,27 +21,19 @@ She never woke up.
 
 A simple genetic test. A 5-minute check. That's all it would have taken.
 
-We couldn't save Aanya. But we built **PharmaGuard** so that no one else has to lose someone they love to a prescription that should have been safe.
+We couldn't save Aanya. But we built **MediSecure** so that no one else has to lose someone they love to a prescription that should have been safe.
 
 ---
 
-## 🧬 What is PharmaGuard?
+## 🧬 What is MediSecure?
 
-**PharmaGuard** is an AI-powered pharmacogenomic risk prediction tool.
+**MediSecure** is an AI-powered pharmacogenomic risk prediction tool.
 
 You upload a patient's genetic file (VCF format). You enter a drug name. We tell you — within seconds — whether that drug is **safe**, **dangerous**, or **deadly** for that specific person.
 
 Simple. Fast. Life-saving.
 
 > *100,000+ Americans die every year from adverse drug reactions. Most of them had no idea their genes put them at risk.*
-
----
-
-## 🌐 Try It Now
-
-**[👉 Launch PharmaGuard](https://pharmaai-a61p.onrender.com/)**
-
-No signup. No credit card. Just upload and know.
 
 ---
 
@@ -66,7 +58,7 @@ That's it. No medical degree required to understand the output.
 
 ## What You'll See
 
-After analysis, PharmaGuard gives you:
+After analysis, MediSecure gives you:
 
 **A clear risk label** — Safe, Caution, or Toxic/Contraindicated
 
@@ -102,8 +94,8 @@ P{ "patient_id": "PATIENT_XXX",
 ## 🚀 Run It Yourself
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pharmaguard.git
-cd pharmaguard
+git clone https://github.com/YOUR_USERNAME/VishwaNova.git
+cd VishwaNova
 npm install
 cp .env.example .env
 # Add your GEMINI_API_KEY to .env
@@ -148,13 +140,16 @@ We included 3 sample patient files so you can see PharmaGuard in action immediat
 
 ---
 
-## 👥CoderX Team
+## Team Diamond
 
 Built with love, urgency, and a lot of late nights at **RIFT 2026 Hackathon — HealthTech Track**.
 
-- **[Ankur Ojha]** — [Leader]
-- **[Vedant Mahore]** 
-- **[Harshal Vidhate]** 
+- **[Atharv Dhole]** — [Leader]
+- **[Raj Choudhari]** 
+- **[Mahi Bagrecha]** 
+- **[Niraj Chavan]** 
+- **[Ronit Dahiwal]** 
+- **[Chetan Mahajan]** 
 
 ---
 
@@ -164,14 +159,13 @@ Somewhere out there, there's another Aanya.
 
 She's about to be handed a prescription. Her doctor means well. The pharmacy will fill it without question. And no one — no one — will think to check her genes.
 
-**PharmaGuard exists for her.**
+**MediSecure exists for her.**
 
 If this project saves even one life, every sleepless night building it was worth it.
 
 ---
 
 > ⚠️ *For research and educational purposes only. Not for clinical use without physician review.*  
-> *RIFT 2026 · HealthTech Track · PS2 Precision Medicine*
 
 ---
 
