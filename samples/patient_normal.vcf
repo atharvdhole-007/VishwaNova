@@ -1,0 +1,14 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##INFO=<ID=GENE,Number=1,Type=String,Description="HGNC gene symbol">
+##INFO=<ID=STAR,Number=1,Type=String,Description="Star allele designation">
+##INFO=<ID=RS,Number=1,Type=String,Description="dbSNP rsID">
+##INFO=<ID=IMPACT,Number=1,Type=String,Description="Predicted functional impact">
+##patient_id=PATIENT_NORMAL
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr22	42526694	.	G	G	99	PASS	GENE=CYP2D6;STAR=*1;RS=rs3892097;IMPACT=LOW
+chr10	96521657	.	C	C	99	PASS	GENE=CYP2C19;STAR=*1;RS=rs4244285;IMPACT=LOW
+chr10	96702047	.	C	C	99	PASS	GENE=CYP2C9;STAR=*1;RS=rs1799853;IMPACT=LOW
+chr12	21331549	.	T	T	99	PASS	GENE=SLCO1B1;STAR=*1a;RS=rs4149056;IMPACT=LOW
+chr6	18143955	.	G	G	99	PASS	GENE=TPMT;STAR=*1;RS=rs1800460;IMPACT=LOW
+chr1	97981343	.	C	C	99	PASS	GENE=DPYD;STAR=*1;RS=rs3918290;IMPACT=LOW
